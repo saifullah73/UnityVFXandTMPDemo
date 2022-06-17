@@ -464,8 +464,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: erkencikus@2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
-  m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -553,7 +553,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5163,7 +5163,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.053270295, y: -0.0000000029230156, z: 1.559313e-10, w: 0.99858016}
+  m_LocalRotation: {x: 0.05327029, y: 0.0000000050705857, z: -2.704956e-10, w: 0.99858016}
   m_LocalPosition: {x: 0, y: 305, z: 39}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -5455,7 +5455,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1010263909}
-  m_LocalRotation: {x: 0.053270288, y: -0.0000000071873316, z: 3.8341558e-10, w: 0.99858016}
+  m_LocalRotation: {x: 0.05327029, y: 0.0000000050705857, z: -2.704956e-10, w: 0.99858016}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -6518,7 +6518,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1283776192}
-  m_LocalRotation: {x: 0.053270295, y: -0.0000000029230154, z: 1.5593128e-10, w: 0.99858016}
+  m_LocalRotation: {x: 0.05327029, y: 0.0000000050705857, z: -2.704956e-10, w: 0.99858016}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
